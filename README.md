@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF71CE&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+Profile!+ðŸ’«;I'm+Galih Putra;+FullStack+Developer+âœ¨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF71CE&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines='Welcome+to+my+Profile!+⭐«;I'm+Galih Putra;+Just+Ordinary+People⚡" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -8,7 +8,7 @@
 
 <!-- Profile Views Counter with cute emoji -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EkiZR&label=Profile+Views+ðŸŽˆ&color=ff71ce&style=for-the-badge" alt="profile-views" />
+  <img src="https://komarev.com/ghpvc/?username=sandhikagalih&label=Profile+Views+⭐&color=ff71ce&style=for-the-badge" alt="profile-views" />
 </p>
 
 <!-- Animated Snake with neon effect -->
@@ -32,7 +32,7 @@
 
 
 <!-- Tech Stack with Glowing Effect -->
-<h2 align="center">âš¡ Stack âš¡</h2>
+<h2 align="center">⭐ @t._.xshylh ⭐</h2>
 <div align="center" style="background: linear-gradient(to right, #FF71CE, #01CDFE);">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="margin: 7px; filter: drop-shadow(0 0 10px #FF71CE);"/>
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" style="margin: 7px; filter: drop-shadow(0 0 10px #01CDFE);"/>
@@ -50,14 +50,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Social Media with Kawaii Style -->
-<h2 align="center">ðŸŒ¸ Let's Connect! ðŸŒ¸</h2>
+<h2 align="center">✨ Let's Connect! ✨</h2>
 <div align="center">
-  <a href="https://www.instagram.com/Galih Putrach" target="_blank">
+  <a href="https://www.instagram.com/t._.xshylh" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FF71CE" height="35" alt="instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/alGalih Putracode" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=01CDFE" height="35" alt="linkedin"/>
-  </a>
 </div>
 
 <!-- Animated Footer with Gradient -->
