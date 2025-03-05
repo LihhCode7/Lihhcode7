@@ -1,7 +1,5 @@
 <!-- Stats -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF71CE&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines='Welcome+to+my+Profile!+⭐«;I'm+Galih Putra;+Just+Ordinary+People⚡" alt="Typing SVG" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=lihhcode7&theme=tokyonight&locale=id&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
 <div align="center">
   <img src="https://camo.githubusercontent.com/a8ae9032d296473e25876769bdb45a2d6a82e4d33b9c7591ec1d4c5ff89bcb60/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6c696868636f646537267468656d653d6175726126686964655f626f726465723d74727565" width="50%" />
 </div>
