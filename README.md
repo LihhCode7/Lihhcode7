@@ -1,6 +1,5 @@
-<!-- Stats -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF71CE&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines='Welcome+to+my+Profile!+⭐«;I'm+Galih Putra;+Just+Ordinary+People⚡" alt="Typing SVG" />
+<div
+    alt="Typing SVG" />
   <img src="https://github-readme-stats.vercel.app/api?username=Lihhcode7&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="0%" /> </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lihhcode7&theme=aura&hide_border=true" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lihhcode7&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="0%" /> </br>
